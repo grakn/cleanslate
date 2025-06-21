@@ -4,7 +4,7 @@ import pandas as pd
 from uuid import uuid4
 from decimal import Decimal
 from datetime import datetime, date
-from cleanslate import JsonSanitizer
+from cleanslay import JsonSanitizer
 
 try:
     from pydantic import BaseModel

@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cleanslate",
+    name="cleanslay",
     version="0.1.0",
     description="Safe JSON serializer for complex Python objects (Pydantic, Pandas, NumPy, etc.)",
     author="Pragman",
     author_email="a@staphi.com",
-    url="https://github.com/grakn/cleanslate",
+    url="https://github.com/grakn/cleanslay",
     packages=find_packages(),
     python_requires=">=3.7",
     install_requires=[],

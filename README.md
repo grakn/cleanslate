@@ -1,6 +1,6 @@
-# 🧼 Cleanslate
+# 🧼 cleanslay
 
-**Cleanslate** is a Python library that safely sanitizes complex objects into JSON-serializable structures.
+**cleanslay** is a Python library that safely sanitizes complex objects into JSON-serializable structures.
 
 It handles:
 
@@ -19,7 +19,7 @@ It handles:
 ## 🔧 Installation
 
 ```
-pip install cleanslate
+pip install cleanslay
 ```
 
 ## For development
