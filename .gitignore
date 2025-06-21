@@ -1,0 +1,5 @@
+.gitconfig
+.venv/
+__pycache__/
+cleanslate.egg-info/
+build/
